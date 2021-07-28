@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OFFLINE 4/4(a)/4(a).iml" filepath="$PROJECT_DIR$/OFFLINE 4/4(a)/4(a).iml" />
+      <module fileurl="file://$PROJECT_DIR$/OFFLINE 4/4(b)/4(b).iml" filepath="$PROJECT_DIR$/OFFLINE 4/4(b)/4(b).iml" />
+      <module fileurl="file://$PROJECT_DIR$/OFFLINE 4/temp/OFFLINE 4.iml" filepath="$PROJECT_DIR$/OFFLINE 4/temp/OFFLINE 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OFFLINE 4 renew.iml" filepath="$PROJECT_DIR$/.idea/OFFLINE 4 renew.iml" />
+    </modules>
+  </component>
+</project>
